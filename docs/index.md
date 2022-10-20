@@ -8,8 +8,8 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /test
+      link: /intro
     - theme: alt
-      text: View Github for Interface
+      text: View Interface on Github
       link: https://github.com/unbound-finance/unbound-interface
 ---
