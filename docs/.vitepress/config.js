@@ -8,8 +8,9 @@ export default {
                 items: [
                     { text: 'Introduction', link: '/intro' },
                     { text: 'Active Branches', link: '/active-branches' },
-                    { text: 'Enable / Disable Pages', link: '/enable-disable-pages' },
                     { text: 'Wallet Connection', link: '/wallet-connection' },
+                    { text: 'Enable / Disable Pages', link: '/enable-disable-pages' },
+                    { text: 'Enable / Disable a Network', link: '/enable-disable-network' },
                 ]
             },
             {
