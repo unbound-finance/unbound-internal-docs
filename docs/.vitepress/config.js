@@ -15,10 +15,10 @@ export default {
                 text: 'Add',
                 items: [
                     { text: 'Add a new Network', link: '/add/network' },
-                    { text: 'Add a new Pool Token', link: '/add/network' },
+                    { text: 'Add a new Pool Token', link: '/add/pooltoken' },
                     { text: 'Add a new Farm', link: '/add/farm' },
                     { text: 'Add a new Unbound Farm', link: '/add/unbound-farm' },
-                    { text: 'Add a new Earn Page Farm', link: '/add/unbound-farm' },
+                    { text: 'Add a new Earn Page Farm', link: '/add/earn-page-farm' },
                     { text: 'Add a new Faucet', link: '/add/faucet' },
                     { text: 'Add a new Staking config', link: '/add/staking' },
                 ]
