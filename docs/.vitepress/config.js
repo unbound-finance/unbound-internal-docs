@@ -9,6 +9,7 @@ export default {
                     { text: 'Introduction', link: '/intro' },
                     { text: 'Active Branches', link: '/active-branches' },
                     { text: 'Enable / Disable Pages', link: '/enable-disable-pages' },
+                    { text: 'Wallet Connection', link: '/wallet-connection' },
                 ]
             },
             {
