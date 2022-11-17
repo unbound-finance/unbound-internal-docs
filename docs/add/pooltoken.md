@@ -38,3 +38,6 @@ Go to `./configs/supportedPoolTokens`. There you will find multiple pool token c
 You can add a new network's pool token config by creating an appropriately named file and adding it to the mapping in `index.ts` of the `supportedPoolTokens` folder.
 
 To add a new pool token, visit the respective network's config file and append the new LPT with the PoolToken interface to the array.
+
+## New Exchange
+Add the new exchange to the [Exchange](https://github.com/unbound-finance/unbound-interface/blob/2dd40072d629dbfa5c3311a8fd9c02cfea2b9d34/types/index.ts#L17) type in `./types/index.ts`.
